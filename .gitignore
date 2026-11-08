@@ -218,3 +218,22 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# claude
+.claude/
+CLAUDE.md
+report.md
+
+# tests
+tests/
+graph_diag.ipynb
+
+
+# embedding cache
+embedding_cache/
+
+# database
+/*.db
+/*.db-*
+
+# deep eval
+.deepeval/
