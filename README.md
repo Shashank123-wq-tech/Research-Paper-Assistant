@@ -67,7 +67,7 @@ Papeer uses [uv](https://github.com/astral-sh/uv) for dependency management.
 ```bash
 # Clone the repository
 git clone <repo-url>
-cd rag-papeer-project
+cd Research-Paper-Assistant
 
 # Install all dependencies
 uv sync
@@ -187,7 +187,7 @@ Papeer includes an automated RAG evaluation pipeline (`evaluate.py`) built on [D
 | **Answer Relevancy** | Does the generated answer actually address the question? |
 | **Faithfulness** | Is the answer grounded in the retrieved context (no hallucination)? |
 
-### Running Evaluation
+### Running Evaluation.
 
 ```bash
 uv run python evaluate.py
