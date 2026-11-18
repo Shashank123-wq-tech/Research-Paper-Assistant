@@ -7,6 +7,9 @@ Papeer is a Retrieval-Augmented Generation (RAG) application built with LangGrap
 
 ---
 
+### Demo Link
+https://research-paper-assistant-uky8sf8zfspsu5d7ehg8s2.streamlit.app/
+
 ## Target Users
 
 - **Students** reading and trying to understand dense academic papers
